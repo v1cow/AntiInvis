@@ -1,0 +1,5 @@
+name: AntiInvis
+main: org.v1cow.antiinvis.AntiInvis
+author: v1cow
+description: Blocks the invisibility potion on a Bukkit server.
+version: 1.0.0
